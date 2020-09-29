@@ -1,16 +1,28 @@
 # Meals_App
 
-A new Flutter project.
+A Flutter app that give access to naviguate through a restaurant menu 
 
-## Getting Started
+## Functionality
 
-This project is a starting point for a Flutter application.
+Offer the ability of:
+- navigating from one page to another using the route name
+- choosing the favorite meals
+- viewing the ingredients
+- removing a meal according to the ingredients 
+    for example if you are vegan and don't want meat
+    
+## Technologies used
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter/ Dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Instructions on running the app
+Clone or download it, if you want to run it on your own and feel free to naviguate through
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# License
+
+Copyright @ 2020 all rights reserved.
+
+
+# Author
+
+Clarisse U.
